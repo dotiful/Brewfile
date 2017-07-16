@@ -122,6 +122,9 @@ pip pytify
 # gem packages
 gem completion
 
+# App Store applications
+appstore 497799835 Xcode (8.3.3)
+
 # Additional files
 file ~/.brewfile/dotiful_Brewfile/Caskfile
 file ~/.brewfile/dotiful_Brewfile/Masfile
