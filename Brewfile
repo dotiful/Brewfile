@@ -1,8 +1,27 @@
 
 # tap repositories and their packages
 
-tap homebrew/core
+tap alphabetum/taps
+brew bindle
+
+tap buo/cask-upgrade
+
+tap caskroom/cask
+
+tap caskroom/drivers
+
+tap caskroom/eid
+
+tap caskroom/fonts
+
+tap caskroom/versions
+
+tap dotiful/tap
 brew android-completion
+
+tap homebrew/bundle
+
+tap homebrew/core
 brew ansible
 brew ansible-lint
 brew apm-bash-completion
@@ -47,6 +66,7 @@ brew neovim
 brew ntfs-3g
 brew osxutils
 brew packer
+brew perl
 brew pinentry-mac
 brew pyenv
 brew python3
@@ -75,22 +95,15 @@ brew yarn
 brew zplug
 brew zsh
 
-tap rcmdnk/file
-brew brew-file
-
-tap homebrew/bundle
-
 tap homebrew/dev-tools
 
 tap homebrew/services
 
-tap alphabetum/taps
-brew bindle
-
-tap dotiful/tap
-
 tap molovo/revolver
 brew revolver
+
+tap rcmdnk/file
+brew brew-file
 
 tap sebglazebrook/aliases
 brew aliases
@@ -101,11 +114,14 @@ brew cask-scripts
 tap vitorgalvao/tiny-scripts
 brew cask-repair
 
+# pip packages
+pip cider
+pip completion
+pip pytify
+
+# gem packages
+gem completion
+
 # Additional files
 file ~/.brewfile/dotiful_Brewfile/Caskfile
 file ~/.brewfile/dotiful_Brewfile/Masfile
-file ~/.brewfile/dotiful_Brewfile/Gemfile
-file ~/.brewfile/dotiful_Brewfile/Pipfile
-
-# Other commands
-git ~/.brewfile

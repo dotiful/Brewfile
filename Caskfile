@@ -101,13 +101,3 @@ cask font-hack-nerd-font
 tap caskroom/versions
 cask google-chrome-beta
 cask iterm2-nightly
-
-# App Store applications
-appstore 937984704 Amphetamine (3.0.2) # /Applications/Amphetamine.app
-appstore 425264550 Blackmagic Disk Speed Test (3.1) # /Applications/Blackmagic Disk Speed Test.app
-appstore 768053424 Gapplin (1.3.0) # /Applications/Gapplin.app
-appstore 668208984 GIPHY CAPTURE (3.5) # /Applications/GIPHY CAPTURE.app
-appstore 576338668 Leaf (5.1.2) # /Applications/Leaf.app
-appstore 572716744 Reditr (3.0.1) # /Applications/Reditr.app
-appstore 897118787 Shazam (1.2.2) # /Applications/Shazam.app
-appstore 954585070 Troga (1.7.8) # /Applications/Troga.app
