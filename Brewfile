@@ -1,4 +1,8 @@
+
+# tap repositories and their packages
+
 tap homebrew/core
+brew android-completion
 brew ansible
 brew ansible-lint
 brew apm-bash-completion
@@ -64,7 +68,7 @@ brew tldr
 brew tmux --HEAD
 brew tree
 brew vagrant-completion
-brew vim --HEAD
+brew vim
 brew vimpager
 brew wget
 brew yarn
@@ -75,14 +79,15 @@ tap rcmdnk/file
 brew brew-file
 
 tap homebrew/bundle
+
 tap homebrew/dev-tools
+
 tap homebrew/services
 
 tap alphabetum/taps
 brew bindle
 
 tap dotiful/tap
-brew android-completion
 
 tap molovo/revolver
 brew revolver
@@ -96,17 +101,11 @@ brew cask-scripts
 tap vitorgalvao/tiny-scripts
 brew cask-repair
 
-# pip packages
-# pip completion
-
-# gem packages
-# gem completion
-
+# Additional files
 file ~/.brewfile/dotiful_Brewfile/Caskfile
 file ~/.brewfile/dotiful_Brewfile/Masfile
 file ~/.brewfile/dotiful_Brewfile/Gemfile
 file ~/.brewfile/dotiful_Brewfile/Pipfile
-
 
 # Other commands
 git ~/.brewfile
