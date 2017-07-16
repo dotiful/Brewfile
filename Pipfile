@@ -1,0 +1,6 @@
+# pip packages
+pip autopep8
+pip beautysh
+pip cider
+pip neovim
+pip pytify
