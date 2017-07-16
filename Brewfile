@@ -88,7 +88,7 @@ brew tldr
 brew tmux --HEAD
 brew tree
 brew vagrant-completion
-brew vim
+brew vim --HEAD
 brew vimpager
 brew wget
 brew yarn
