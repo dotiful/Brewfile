@@ -7,6 +7,8 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask keepingyouawake
+cask parallels-virtualization-sdk
 
 tap caskroom/drivers
 
@@ -123,9 +125,6 @@ pip pytify
 
 # gem packages
 gem completion
-
-# App Store applications
-appstore 497799835 Xcode (8.3.3)
 
 # Additional files
 file ~/.brewfile/dotiful_Brewfile/Caskfile
