@@ -59,7 +59,6 @@ cask qlplayground
 cask qlprettypatch
 cask qlrest
 cask qlvideo
-cask qsyncthingtray
 cask radio-silence
 cask raindropio
 cask rcdefaultapp
