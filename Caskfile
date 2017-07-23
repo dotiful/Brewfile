@@ -89,6 +89,8 @@ cask witch
 
 tap alphabetum/taps
 
+tap buo/cask-upgrade
+
 tap caskroom/drivers
 
 tap caskroom/eid
@@ -106,5 +108,3 @@ cask iterm2-nightly
 
 tap dotiful/tap
 cask shortcutdetective
-
-tap buo/cask-upgrade
