@@ -57,6 +57,7 @@ brew launchctl-completion
 brew libiconv
 brew lnav
 brew mas
+brew miller
 brew mitmproxy
 brew mobile-shell
 brew mpv
@@ -73,6 +74,7 @@ brew python3
 brew rbenv
 brew rbenv-default-gems
 brew rbenv-gemset
+brew rclone
 brew reattach-to-user-namespace
 brew ruby
 brew shellcheck

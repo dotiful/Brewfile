@@ -5,6 +5,7 @@ tap caskroom/cask
 cask 1password
 cask adguard
 cask airdroid
+cask airfoil
 cask android-file-transfer
 cask android-platform-tools
 cask appcleaner
@@ -27,11 +28,18 @@ cask etcher
 cask folx
 cask fork
 cask forklift
+cask freeter
+cask git-it
 cask gitee
+cask gitifier
+cask gitify
+cask gitter
 cask google-cloud-sdk
 cask hammerspoon
 cask hetimazipql
+cask iconjar
 cask iina
+cask insomnia
 cask jasper
 cask jaxx
 cask karabiner-elements
@@ -42,6 +50,7 @@ cask keyboard-maestro
 cask launchcontrol
 cask launchpad-manager-yosemite
 cask lepton
+cask lunchy
 cask macupdate-desktop
 cask magic-launch
 cask megasync
@@ -65,17 +74,22 @@ cask radio-silence
 cask raindropio
 cask rcdefaultapp
 cask receiptquicklook
+cask rocket
 cask screenhero
 cask script-debugger
 cask scriptql
+cask shortcat
 cask sip
 cask smcfancontrol
 cask softraid
 cask spotify
 cask suspicious-package
+cask svgcleaner
+cask taskwarrior-pomodoro
 cask teamviewer
 cask telegram
 cask tiptyper
+cask touch-bar-simulator
 cask trailer
 cask tunnelbear
 cask typora
@@ -88,8 +102,6 @@ cask winfo
 cask witch
 
 tap alphabetum/taps
-
-tap buo/cask-upgrade
 
 tap caskroom/drivers
 
@@ -108,3 +120,6 @@ cask iterm2-nightly
 
 tap dotiful/tap
 cask shortcutdetective
+
+# Cask applications
+cask iina
