@@ -106,3 +106,5 @@ cask iterm2-nightly
 
 tap dotiful/tap
 cask shortcutdetective
+
+tap buo/cask-upgrade
