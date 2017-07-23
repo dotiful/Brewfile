@@ -35,6 +35,7 @@ cask iina
 cask jasper
 cask jaxx
 cask karabiner-elements
+cask keepingyouawake
 cask keka
 cask keybase
 cask keyboard-maestro
@@ -47,6 +48,7 @@ cask megasync
 cask mysimbl
 cask onyx
 cask osxfuse
+cask parallels-virtualization-sdk
 cask plistedit-pro
 cask preferencecleaner
 cask prefs-editor
@@ -96,7 +98,11 @@ cask font-awesome-terminal-fonts
 cask font-fira-code
 cask font-firacode-nerd-font
 cask font-hack-nerd-font
+cask font-hasklig
 
 tap caskroom/versions
 cask google-chrome-beta
 cask iterm2-nightly
+
+tap dotiful/tap
+cask shortcutdetective

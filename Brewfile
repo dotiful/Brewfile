@@ -7,21 +7,17 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask keepingyouawake
-cask parallels-virtualization-sdk
 
 tap caskroom/drivers
 
 tap caskroom/eid
 
 tap caskroom/fonts
-cask font-hasklig
 
 tap caskroom/versions
 
 tap dotiful/tap
 brew android-completion
-cask shortcutdetective
 
 tap homebrew/bundle
 
