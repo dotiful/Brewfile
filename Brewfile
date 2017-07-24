@@ -49,6 +49,8 @@ brew gh
 brew ghq
 brew git
 brew git-extras --HEAD
+brew git-plus
+brew git-secret
 brew git-subrepo
 brew github-keygen
 brew github-release
@@ -88,6 +90,7 @@ brew shfmt
 brew source-highlight
 brew ssh-copy-id
 brew sshfs
+brew stormssh
 brew stow
 brew switchaudio-osx
 brew tccutil
