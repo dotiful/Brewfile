@@ -69,7 +69,13 @@ cask qlmarkdown
 cask qlplayground
 cask qlprettypatch
 cask qlrest
+cask qlstephen
 cask qlvideo
+cask quicklook-csv
+cask quicklook-json
+cask quicklook-pat
+cask quicklookapk
+cask quicklookase
 cask radio-silence
 cask raindropio
 cask rcdefaultapp
@@ -98,14 +104,9 @@ cask vagrant-manager
 cask vagrant
 cask virtualbox-extension-pack
 cask virtualbox
+cask webpquicklook
 cask winfo
 cask witch
-
-tap alphabetum/taps
-
-tap caskroom/drivers
-
-tap caskroom/eid
 
 tap caskroom/fonts
 cask font-awesome-terminal-fonts
@@ -118,8 +119,14 @@ tap caskroom/versions
 cask google-chrome-beta
 cask iterm2-nightly
 
+tap caskroom/drivers
+
+tap caskroom/eid
+
 tap dotiful/tap
 cask shortcutdetective
+
+tap alphabetum/taps
 
 # Cask applications
 cask iina

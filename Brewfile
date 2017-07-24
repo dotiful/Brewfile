@@ -7,17 +7,22 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask docker
 
 tap caskroom/drivers
 
 tap caskroom/eid
 
 tap caskroom/fonts
+cask font-monoid-nerd-font-mono
+cask font-monoid-nerd-font
+cask font-monoid
 
 tap caskroom/versions
 
 tap dotiful/tap
 brew android-completion
+cask typeeto
 
 tap homebrew/bundle
 
@@ -69,6 +74,7 @@ brew osxutils
 brew packer
 brew perl
 brew pinentry-mac
+brew pre-commit
 brew pyenv
 brew python3
 brew rbenv
@@ -109,6 +115,9 @@ brew brew-file
 
 tap sebglazebrook/aliases
 brew aliases
+
+tap timsutton/formulae
+brew brew-pkg
 
 tap victorpopkov/tap
 brew cask-scripts
