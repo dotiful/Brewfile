@@ -8,6 +8,7 @@ tap buo/cask-upgrade
 
 tap caskroom/cask
 cask docker
+cask qladdict
 
 tap caskroom/drivers
 
@@ -99,7 +100,7 @@ brew tldr
 brew tmux --HEAD
 brew tree
 brew vagrant-completion
-brew vim --HEAD
+brew vim
 brew vimpager
 brew wget
 brew yarn
