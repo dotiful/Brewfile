@@ -8,7 +8,11 @@ tap buo/cask-upgrade
 
 tap caskroom/cask
 cask docker
+cask fastscripts
+cask lastpass
+cask postbox
 cask qladdict
+cask touche
 
 tap caskroom/drivers
 
