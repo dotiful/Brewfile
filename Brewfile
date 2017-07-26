@@ -107,6 +107,7 @@ brew vagrant-completion
 brew vim
 brew vimpager
 brew wget
+brew yank
 brew yarn
 brew zplug
 brew zsh
@@ -132,6 +133,9 @@ brew cask-scripts
 
 tap vitorgalvao/tiny-scripts
 brew cask-repair
+
+tap zmwangx/npm-noob
+brew noob
 
 # pip packages
 pip cider
