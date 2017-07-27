@@ -13,18 +13,22 @@ cask atom
 cask bartender
 cask bettertouchtool
 cask betterzipql
+cask beyond-compare
 cask browser-chooserx
 cask brushviewql
 cask canary
+cask coconutbattery
 cask colorpicker-skalacolor
 cask console
 cask daisydisk
 cask default-folder-x
 cask devdocs
+cask docker
 cask dropbox
 cask electrum-ltc
 cask electrum
 cask etcher
+cask fastscripts
 cask folx
 cask fork
 cask forklift
@@ -33,6 +37,7 @@ cask git-it
 cask gitee
 cask gitifier
 cask gitify
+cask gitscout
 cask gitter
 cask google-cloud-sdk
 cask hammerspoon
@@ -41,6 +46,7 @@ cask iconjar
 cask iina
 cask insomnia
 cask jasper
+cask jaxx
 cask karabiner-elements
 cask keepingyouawake
 cask keka
@@ -58,10 +64,12 @@ cask onyx
 cask osxfuse
 cask parallels-virtualization-sdk
 cask plistedit-pro
+cask postbox
 cask preferencecleaner
 cask prefs-editor
 cask privacy-services-manager
 cask provisionql
+cask qladdict
 cask qlcolorcode
 cask qlimagesize
 cask qlmarkdown
@@ -93,14 +101,13 @@ cask taskwarrior-pomodoro
 cask teamviewer
 cask telegram
 cask tiptyper
+cask touche
 cask trailer
 cask tunnelbear
 cask typora
 cask ui-browser
 cask vagrant-manager
 cask vagrant
-cask virtualbox-extension-pack
-cask virtualbox
 cask webpquicklook
 cask winfo
 cask witch
@@ -111,6 +118,9 @@ cask font-fira-code
 cask font-firacode-nerd-font
 cask font-hack-nerd-font
 cask font-hasklig
+cask font-monoid-nerd-font-mono
+cask font-monoid-nerd-font
+cask font-monoid
 
 tap caskroom/versions
 cask google-chrome-beta
@@ -120,10 +130,12 @@ tap caskroom/drivers
 
 tap caskroom/eid
 
+tap buo/cask-upgrade
+
+tap vitorgalvao/tiny-scripts
+brew cask-repair
+
 tap dotiful/tap
+brew android-completion
 cask shortcutdetective
-
-tap alphabetum/taps
-
-# Cask applications
-cask iina
+cask typeeto

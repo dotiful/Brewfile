@@ -1,15 +1,23 @@
-
-# tap repositories and their packages
-
 # pip packages
-pip autopep8
-pip beautysh
-pip cider
-pip neovim
 pip pip
-pip pytify
 pip setuptools
 
+# formaters
+pip autopep8
+pip beautysh
 
-# pygments
-# pygments-base16
+# python client to neovim
+pip neovim
+
+# hassle-free bootstrapping using Homebrew
+pip cider
+
+# syntax highlighting
+pip pygments
+pip pygments-base16
+
+# a tool for including other people's code in your projects
+pip peru
+
+# A CLI application for controlling Spotify http://bit.ly/2vb4FXM
+pip pytify
