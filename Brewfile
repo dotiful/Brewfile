@@ -2,7 +2,10 @@
 # tap repositories and their packages
 
 tap alphabetum/taps
+brew airport
 brew bindle
+brew pb
+brew vbox
 
 tap buo/cask-upgrade
 
@@ -10,6 +13,7 @@ tap caskroom/cask
 cask coconutbattery
 cask docker
 cask fastscripts
+cask gitscout
 cask lastpass
 cask postbox
 cask qladdict
