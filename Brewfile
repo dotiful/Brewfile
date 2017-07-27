@@ -57,6 +57,7 @@ brew diff-so-fancy
 brew dockutil
 brew duti
 brew emacs
+brew findutils
 brew fzf
 brew gh
 brew ghq
