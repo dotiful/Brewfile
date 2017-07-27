@@ -18,6 +18,7 @@ cask lastpass
 cask postbox
 cask qladdict
 cask touche
+cask xmplify
 
 tap caskroom/drivers
 
@@ -29,6 +30,8 @@ cask font-monoid-nerd-font
 cask font-monoid
 
 tap caskroom/versions
+cask virtualbox-beta
+cask virtualbox-extension-pack-beta
 
 tap dotiful/tap
 brew android-completion

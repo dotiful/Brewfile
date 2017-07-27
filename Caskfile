@@ -87,7 +87,6 @@ cask scriptql
 cask shortcat
 cask sip
 cask smcfancontrol
-cask softraid
 cask spotify
 cask suspicious-package
 cask svgcleaner
@@ -95,7 +94,6 @@ cask taskwarrior-pomodoro
 cask teamviewer
 cask telegram
 cask tiptyper
-cask touch-bar-simulator
 cask trailer
 cask tunnelbear
 cask typora
