@@ -14,11 +14,11 @@ cask coconutbattery
 cask docker
 cask fastscripts
 cask gitscout
+cask jaxx
 cask lastpass
 cask postbox
 cask qladdict
 cask touche
-cask xmplify
 
 tap caskroom/drivers
 
@@ -102,6 +102,7 @@ brew ruby
 brew shellcheck
 brew shfmt
 brew source-highlight
+brew speedtest-cli
 brew ssh-copy-id
 brew sshfs
 brew stormssh
