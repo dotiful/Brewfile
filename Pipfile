@@ -6,4 +6,10 @@ pip autopep8
 pip beautysh
 pip cider
 pip neovim
+pip pip
 pip pytify
+pip setuptools
+
+
+# pygments
+# pygments-base16
