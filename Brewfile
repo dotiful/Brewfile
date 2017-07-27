@@ -7,6 +7,7 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask coconutbattery
 cask docker
 cask fastscripts
 cask lastpass
