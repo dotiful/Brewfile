@@ -47,7 +47,6 @@ cask insomnia
 cask jasper
 cask jaxx
 cask karabiner-elements
-cask keepingyouawake
 cask keka
 cask keybase
 cask keyboard-maestro
@@ -89,7 +88,6 @@ cask receiptquicklook
 cask rocket
 cask screenhero
 cask script-debugger
-cask scriptql
 cask shortcat
 cask sip
 cask smcfancontrol
