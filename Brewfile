@@ -48,7 +48,7 @@ brew mpv
 brew apm-bash-completion
 brew tmux --HEAD
 brew gnutls
-brew vim
+brew vim --HEAD
 brew python3
 brew zsh
 brew xz
@@ -222,6 +222,8 @@ appstore 768053424 Gapplin (1.3.0)
 appstore 1081413713 GIF Brewery 3 (3.5)
 appstore 668208984 GIPHY CAPTURE (3.6)
 appstore 1191486432 GitBot (1.2)
+appstore 1127487414 Install macOS Sierra (12.5.03)
+appstore 1127487414 Install_macOS_Sierra_10.12.6 ()
 appstore 576338668 Leaf (5.1.2)
 appstore 1109711745 Milkeddit (4.1)
 appstore 1218642292 OhMyStar2 (2.1.2)
