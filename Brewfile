@@ -10,7 +10,7 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask qlcommonmark
+cask chrome-remote-desktop-host
 
 tap caskroom/drivers
 
@@ -19,8 +19,6 @@ tap caskroom/eid
 tap caskroom/fonts
 
 tap caskroom/versions
-cask virtualbox-beta
-cask virtualbox-extension-pack-beta
 
 tap dotiful/tap
 
@@ -35,6 +33,7 @@ brew ssh-copy-id
 brew htop
 brew go
 brew gdbm
+brew multimarkdown
 brew fontconfig
 brew vagrant-completion
 brew pixman
@@ -222,8 +221,6 @@ appstore 768053424 Gapplin (1.3.0)
 appstore 1081413713 GIF Brewery 3 (3.5)
 appstore 668208984 GIPHY CAPTURE (3.6)
 appstore 1191486432 GitBot (1.2)
-appstore 1127487414 Install macOS Sierra (12.5.03)
-appstore 1127487414 Install_macOS_Sierra_10.12.6 ()
 appstore 576338668 Leaf (5.1.2)
 appstore 1109711745 Milkeddit (4.1)
 appstore 1218642292 OhMyStar2 (2.1.2)

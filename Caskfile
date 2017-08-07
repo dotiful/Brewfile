@@ -69,6 +69,7 @@ cask privacy-services-manager
 cask provisionql
 cask qladdict
 cask qlcolorcode
+cask qlcommonmark
 cask qlimagesize
 cask qlmarkdown
 cask qlplayground
@@ -122,6 +123,8 @@ cask font-monoid
 tap caskroom/versions
 cask google-chrome-beta
 cask iterm2-nightly
+cask virtualbox-beta
+cask virtualbox-extension-pack-beta
 
 tap caskroom/drivers
 
@@ -134,5 +137,6 @@ brew cask-repair
 
 tap dotiful/tap
 brew android-completion
+cask htmltomd
 cask shortcutdetective
 cask typeeto
