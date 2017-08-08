@@ -175,6 +175,7 @@ brew libffi
 brew oniguruma
 brew readline
 brew libunistring
+brew exa
 brew fribidi
 brew zplug
 brew libuv
