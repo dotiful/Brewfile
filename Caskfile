@@ -15,7 +15,6 @@ cask betterzipql
 cask beyond-compare
 cask browser-chooserx
 cask brushviewql
-cask canary
 cask coconutbattery
 cask colorpicker-skalacolor
 cask console
@@ -24,8 +23,6 @@ cask default-folder-x
 cask devdocs
 cask docker
 cask dropbox
-cask electrum-ltc
-cask electrum
 cask etcher
 cask fastscripts
 cask folx
@@ -44,7 +41,6 @@ cask iconjar
 cask iina
 cask insomnia
 cask jasper
-cask jaxx
 cask karabiner-elements
 cask keka
 cask keybase
