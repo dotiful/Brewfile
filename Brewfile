@@ -12,6 +12,7 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask airfoil
 cask chrome-remote-desktop-host
+cask virtualbox
 
 tap caskroom/drivers
 
