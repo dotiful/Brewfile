@@ -12,6 +12,7 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask airfoil
 cask chrome-remote-desktop-host
+cask virtualbox-extension-pack
 cask virtualbox
 
 tap caskroom/drivers
@@ -224,6 +225,7 @@ appstore 768053424 Gapplin (1.3.0)
 appstore 1081413713 GIF Brewery 3 (3.6)
 appstore 668208984 GIPHY CAPTURE (3.6)
 appstore 1191486432 GitBot (1.2)
+appstore 1127487414 Install_macOS_Sierra_10.12.6 (12.6.03)
 appstore 576338668 Leaf (5.1.2)
 appstore 1109711745 Milkeddit (4.1)
 appstore 1218642292 OhMyStar2 (2.1.3)
