@@ -5,6 +5,7 @@ tap caskroom/cask
 cask 1password
 cask adguard
 cask airdroid
+cask airfoil
 cask android-file-transfer
 cask android-platform-tools
 cask appcleaner
@@ -101,6 +102,8 @@ cask typora
 cask ui-browser
 cask vagrant-manager
 cask vagrant
+cask virtualbox-extension-pack
+cask virtualbox
 cask webpquicklook
 cask winfo
 cask witch

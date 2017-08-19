@@ -10,10 +10,6 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask airfoil
-cask chrome-remote-desktop-host
-cask virtualbox-extension-pack
-cask virtualbox
 
 tap caskroom/drivers
 
@@ -79,7 +75,6 @@ brew lua
 brew neofetch
 brew libpng
 brew xvid
-brew gh
 brew boost
 brew pcre
 brew git-extras --HEAD
@@ -221,11 +216,12 @@ tap zmwangx/track
 appstore 937984704 Amphetamine (3.0.2)
 appstore 1132845904 AppLocker (2.0.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
+appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 768053424 Gapplin (1.3.0)
 appstore 1081413713 GIF Brewery 3 (3.6)
 appstore 668208984 GIPHY CAPTURE (3.6)
 appstore 1191486432 GitBot (1.2)
-appstore 1127487414 Install_macOS_Sierra_10.12.6 (12.6.03)
+appstore 1127487414 Install macOS Sierra (12.6.03)
 appstore 576338668 Leaf (5.1.2)
 appstore 1109711745 Milkeddit (4.1)
 appstore 1218642292 OhMyStar2 (2.1.3)
@@ -239,4 +235,3 @@ appstore 954585070 Troga (1.7.8)
 
 # Additional files
 file ~/.brewfile/dotiful_Brewfile/Caskfile
-file ~/.brewfile/dotiful_Brewfile/Masfile
