@@ -11,6 +11,8 @@ tap buo/cask-upgrade
 
 tap caskroom/cask
 cask airfoil
+cask chrome-remote-desktop-host
+cask gitter
 cask nteract
 cask real-vnc
 
@@ -145,3 +147,4 @@ tap zmwangx/track
 
 # Additional files
 file ~/.brewfile/dotiful_Brewfile/Caskfile
+file ~/.brewfile/dotiful_Brewfile/Masfile
