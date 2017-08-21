@@ -12,6 +12,7 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask airfoil
 cask nteract
+cask real-vnc
 
 tap caskroom/drivers
 
@@ -50,6 +51,7 @@ brew findutils
 brew stormssh
 brew packer
 brew github-release
+brew path-extractor
 brew vimpager
 brew neofetch
 brew gh
@@ -80,12 +82,11 @@ brew shellcheck
 brew fzf
 brew caddy
 brew ruby
-brew ghq
 brew cask
 brew reattach-to-user-namespace
 brew gnupg
 brew highlight
-brew gnu-sed
+brew gnu-sed --with-default-names
 brew github-keygen
 brew rclone
 brew pinentry-mac
@@ -105,8 +106,10 @@ brew rbenv-default-gems
 brew mas
 brew stow
 brew ccat
+brew ghq
 brew exa
 brew zplug
+brew ext2fuse
 brew rbenv
 brew diff-so-fancy
 brew yank
