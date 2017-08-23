@@ -16,6 +16,7 @@ cask gitter
 cask nteract
 cask real-vnc
 cask synergy
+cask timing
 
 tap caskroom/drivers
 
