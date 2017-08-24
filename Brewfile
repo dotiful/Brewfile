@@ -47,6 +47,7 @@ brew tmux --HEAD
 brew vim --HEAD
 brew python3
 brew zsh
+brew ext4fuse
 brew terminal-notifier
 brew mitmproxy
 brew unrar
