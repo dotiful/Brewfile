@@ -43,8 +43,8 @@ brew speedtest-cli
 brew bash-completion
 brew mpv
 brew apm-bash-completion
-brew tmux --HEAD
-brew vim --HEAD
+brew tmux
+brew vim
 brew python3
 brew zsh
 brew ext4fuse
@@ -60,7 +60,7 @@ brew path-extractor
 brew vimpager
 brew neofetch
 brew gh
-brew git-extras --HEAD
+brew git-extras
 brew tree
 brew brew-cask-completion
 brew rbenv-gemset
