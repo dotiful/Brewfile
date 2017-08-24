@@ -23,14 +23,12 @@ cask devdocs
 cask docker
 cask dropbox
 cask etcher
-cask fastscripts
 cask folx
 cask fork
 cask forklift
 cask freeter
 cask git-it
 cask gitee
-cask gitifier
 cask gitify
 cask gitscout
 cask google-cloud-sdk
@@ -133,4 +131,3 @@ tap dotiful/tap
 brew android-completion
 cask htmltomd
 cask shortcutdetective
-cask typeeto

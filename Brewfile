@@ -12,7 +12,6 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask airfoil
 cask anydesk
-cask gitter
 cask nteract
 cask real-vnc
 cask synergy
