@@ -12,6 +12,7 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask airfoil
 cask anydesk
+cask harmony
 cask nteract
 cask real-vnc
 cask synergy
@@ -44,9 +45,9 @@ brew mpv
 brew apm-bash-completion
 brew tmux
 brew vim
+brew m-cli
 brew python3
 brew zsh
-brew ext4fuse
 brew terminal-notifier
 brew mitmproxy
 brew unrar
@@ -86,6 +87,7 @@ brew shellcheck
 brew fzf
 brew caddy
 brew ruby
+brew ghq
 brew cask
 brew reattach-to-user-namespace
 brew gnupg
@@ -110,10 +112,8 @@ brew rbenv-default-gems
 brew mas
 brew stow
 brew ccat
-brew ghq
 brew exa
 brew zplug
-brew ext2fuse
 brew rbenv
 brew diff-so-fancy
 brew yank
