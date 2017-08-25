@@ -12,11 +12,14 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask airfoil
 cask anydesk
+cask beardedspice
 cask harmony
 cask nteract
 cask real-vnc
 cask synergy
 cask timing
+cask vox-preferences-pane
+cask vox
 
 tap caskroom/drivers
 
@@ -25,6 +28,7 @@ tap caskroom/eid
 tap caskroom/fonts
 
 tap caskroom/versions
+cask microsoft-remote-desktop-beta
 
 tap dotiful/tap
 
