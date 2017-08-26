@@ -10,16 +10,7 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask airfoil
-cask anydesk
-cask beardedspice
 cask harmony
-cask nteract
-cask real-vnc
-cask synergy
-cask timing
-cask vox-preferences-pane
-cask vox
 
 tap caskroom/drivers
 
@@ -28,7 +19,6 @@ tap caskroom/eid
 tap caskroom/fonts
 
 tap caskroom/versions
-cask microsoft-remote-desktop-beta
 
 tap dotiful/tap
 
@@ -51,7 +41,6 @@ brew tmux
 brew vim
 brew m-cli
 brew python3
-brew zsh
 brew terminal-notifier
 brew mitmproxy
 brew unrar
@@ -83,6 +72,7 @@ brew pyenv
 brew sshfs
 brew neovim
 brew git
+brew zsh
 brew perl
 brew emacs
 brew nativefier
@@ -91,7 +81,6 @@ brew shellcheck
 brew fzf
 brew caddy
 brew ruby
-brew ghq
 brew cask
 brew reattach-to-user-namespace
 brew gnupg
@@ -107,6 +96,7 @@ brew launchctl-completion
 brew curl
 brew lnav
 brew switchaudio-osx
+brew simple-mtpfs
 brew tldr
 brew hugo
 brew brew-pip
@@ -116,6 +106,7 @@ brew rbenv-default-gems
 brew mas
 brew stow
 brew ccat
+brew ghq
 brew exa
 brew zplug
 brew rbenv

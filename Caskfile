@@ -5,11 +5,13 @@ tap caskroom/cask
 cask 1password
 cask adguard
 cask airdroid
+cask airfoil
 cask android-file-transfer
 cask android-platform-tools
 cask appcleaner
 cask atom
 cask bartender
+cask beardedspice
 cask bettertouchtool
 cask betterzipql
 cask beyond-compare
@@ -50,6 +52,7 @@ cask macupdate-desktop
 cask magic-launch
 cask megasync
 cask mysimbl
+cask nteract
 cask onyx
 cask osxfuse
 cask parallels-virtualization-sdk
@@ -77,6 +80,7 @@ cask quicklookase
 cask radio-silence
 cask raindropio
 cask rcdefaultapp
+cask real-vnc
 cask receiptquicklook
 cask rocket
 cask screenhero
@@ -84,12 +88,15 @@ cask script-debugger
 cask shortcat
 cask sip
 cask smcfancontrol
+cask soundcloud-downloader
 cask spotify
 cask suspicious-package
 cask svgcleaner
+cask synergy
 cask taskwarrior-pomodoro
 cask teamviewer
 cask telegram
+cask timing
 cask tiptyper
 cask touche
 cask trailer
@@ -98,6 +105,8 @@ cask typora
 cask ui-browser
 cask vagrant-manager
 cask vagrant
+cask vox-preferences-pane
+cask vox
 cask webpquicklook
 cask winfo
 cask witch
@@ -115,6 +124,7 @@ cask font-monoid
 tap caskroom/versions
 cask google-chrome-beta
 cask iterm2-nightly
+cask microsoft-remote-desktop-beta
 cask virtualbox-beta
 cask virtualbox-extension-pack-beta
 
