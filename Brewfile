@@ -55,14 +55,17 @@ brew neofetch
 brew gh
 brew git-extras
 brew tree
+brew gawk
 brew brew-cask-completion
 brew rbenv-gemset
 brew dockutil
-brew shfmt
+brew dcfldd
+brew stow
 brew ansible-lint
 brew libiconv
 brew gws
 brew pre-commit
+brew yank
 brew ntfs-3g
 brew git-secret
 brew duti
@@ -80,6 +83,7 @@ brew miller
 brew shellcheck
 brew fzf
 brew caddy
+brew shfmt
 brew ruby
 brew cask
 brew reattach-to-user-namespace
@@ -104,14 +108,13 @@ brew coreutils
 brew source-highlight
 brew rbenv-default-gems
 brew mas
-brew stow
+brew lzop
 brew ccat
 brew ghq
 brew exa
 brew zplug
 brew rbenv
 brew diff-so-fancy
-brew yank
 
 tap homebrew/dev-tools
 
