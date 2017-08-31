@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap alphabetum/taps
-brew vbox
 brew airport
 brew pb
 brew bindle

@@ -125,8 +125,6 @@ tap caskroom/versions
 cask google-chrome-beta
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
-cask virtualbox-beta
-cask virtualbox-extension-pack-beta
 
 tap caskroom/drivers
 
