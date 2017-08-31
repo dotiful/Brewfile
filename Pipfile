@@ -21,3 +21,6 @@ pip peru
 
 # A CLI application for controlling Spotify http://bit.ly/2vb4FXM
 pip pytify
+
+# google-play cli
+# pip install gplay

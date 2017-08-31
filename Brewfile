@@ -9,7 +9,8 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask harmony
+cask virtualbox-extension-pack
+cask virtualbox
 
 tap caskroom/drivers
 
