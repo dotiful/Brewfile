@@ -9,6 +9,7 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask coteditor
 cask virtualbox-extension-pack
 cask virtualbox
 
@@ -49,6 +50,7 @@ brew findutils
 brew stormssh
 brew packer
 brew github-release
+brew apktool
 brew path-extractor
 brew vimpager
 brew neofetch
@@ -58,6 +60,7 @@ brew tree
 brew gawk
 brew brew-cask-completion
 brew rbenv-gemset
+brew c-ares
 brew dockutil
 brew dcfldd
 brew stow
@@ -85,6 +88,7 @@ brew fzf
 brew caddy
 brew shfmt
 brew ruby
+brew geoip
 brew cask
 brew reattach-to-user-namespace
 brew gnupg
