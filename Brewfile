@@ -13,6 +13,7 @@ cask coteditor
 cask sqlitebrowser
 cask virtualbox-extension-pack
 cask virtualbox
+cask xtrafinder
 
 tap caskroom/drivers
 
