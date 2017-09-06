@@ -81,7 +81,6 @@ cask raindropio
 cask rcdefaultapp
 cask real-vnc
 cask receiptquicklook
-cask rocket
 cask screenhero
 cask script-debugger
 cask shortcat
@@ -92,7 +91,6 @@ cask spotify
 cask suspicious-package
 cask svgcleaner
 cask synergy
-cask taskwarrior-pomodoro
 cask teamviewer
 cask telegram
 cask timing

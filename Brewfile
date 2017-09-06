@@ -10,6 +10,7 @@ tap buo/cask-upgrade
 
 tap caskroom/cask
 cask coteditor
+cask sqlitebrowser
 cask virtualbox-extension-pack
 cask virtualbox
 
@@ -34,7 +35,6 @@ brew htop
 brew multimarkdown
 brew vagrant-completion
 brew git-subrepo
-brew speedtest-cli
 brew bash-completion
 brew mpv
 brew apm-bash-completion
@@ -42,6 +42,7 @@ brew tmux
 brew vim
 brew m-cli
 brew python3
+brew icoutils
 brew terminal-notifier
 brew mitmproxy
 brew unrar
@@ -114,6 +115,7 @@ brew rbenv-default-gems
 brew mas
 brew lzop
 brew ccat
+brew speedtest-cli
 brew ghq
 brew exa
 brew zplug
