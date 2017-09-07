@@ -10,10 +10,11 @@ tap buo/cask-upgrade
 
 tap caskroom/cask
 cask coteditor
+cask mandrake
+cask remote-desktop-manager
 cask sqlitebrowser
 cask virtualbox-extension-pack
 cask virtualbox
-cask xtrafinder
 
 tap caskroom/drivers
 
@@ -149,6 +150,9 @@ tap vitorgalvao/tiny-scripts
 
 tap zmwangx/npm-noob
 brew noob
+
+tap zmwangx/tap
+brew pm
 
 tap zmwangx/track
 
