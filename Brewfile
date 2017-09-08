@@ -61,6 +61,7 @@ brew gh
 brew git-extras
 brew tree
 brew gawk
+brew lzip
 brew brew-cask-completion
 brew rbenv-gemset
 brew c-ares
