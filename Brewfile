@@ -46,6 +46,7 @@ brew vim
 brew m-cli
 brew python3
 brew icoutils
+brew mercurial
 brew terminal-notifier
 brew mitmproxy
 brew unrar
@@ -65,6 +66,7 @@ brew gawk
 brew lzip
 brew brew-cask-completion
 brew rbenv-gemset
+brew syncthing
 brew c-ares
 brew dockutil
 brew dcfldd
@@ -120,6 +122,7 @@ brew mas
 brew lzop
 brew ccat
 brew speedtest-cli
+brew syncthing-inotify
 brew ghq
 brew exa
 brew zplug
