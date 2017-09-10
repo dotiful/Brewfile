@@ -12,8 +12,10 @@ tap caskroom/cask
 cask android-sdk
 cask coteditor
 cask mandrake
+cask opendns-updater
 cask remote-desktop-manager
 cask sqlitebrowser
+cask tunnelblick
 cask virtualbox-extension-pack
 cask virtualbox
 
@@ -99,6 +101,7 @@ brew geoip
 brew cask
 brew reattach-to-user-namespace
 brew gnupg
+brew openssh
 brew highlight
 brew gnu-sed --with-default-names
 brew github-keygen
