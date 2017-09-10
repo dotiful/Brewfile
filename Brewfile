@@ -102,7 +102,6 @@ brew geoip
 brew cask
 brew reattach-to-user-namespace
 brew gnupg
-brew openssh
 brew highlight
 brew gnu-sed --with-default-names
 brew github-keygen
