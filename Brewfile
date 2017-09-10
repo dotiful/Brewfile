@@ -28,6 +28,7 @@ tap caskroom/fonts
 tap caskroom/versions
 
 tap dotiful/tap
+cask sshfs-gui
 
 tap homebrew/bundle
 
