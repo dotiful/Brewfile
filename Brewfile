@@ -15,7 +15,6 @@ cask mandrake
 cask opendns-updater
 cask remote-desktop-manager
 cask sqlitebrowser
-cask tunnelblick
 cask virtualbox-extension-pack
 cask virtualbox
 
