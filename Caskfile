@@ -120,9 +120,6 @@ cask font-fira-code
 cask font-firacode-nerd-font
 cask font-hack-nerd-font
 cask font-hasklig
-cask font-monoid-nerd-font-mono
-cask font-monoid-nerd-font
-cask font-monoid
 
 tap caskroom/versions
 cask google-chrome-beta

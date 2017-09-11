@@ -22,5 +22,8 @@ pip peru
 # A CLI application for controlling Spotify http://bit.ly/2vb4FXM
 pip pytify
 
+# SoundCloud downloader
+pip soundscrape
+
 # google-play cli
 # pip install gplay
