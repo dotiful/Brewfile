@@ -40,6 +40,7 @@ brew ssh-copy-id
 brew htop
 brew multimarkdown
 brew vagrant-completion
+brew python
 brew git-subrepo
 brew bash-completion
 brew mpv
