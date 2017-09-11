@@ -9,14 +9,7 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask android-sdk
-cask coteditor
-cask mandrake
 cask opendns-updater
-cask remote-desktop-manager
-cask sqlitebrowser
-cask virtualbox-extension-pack
-cask virtualbox
 
 tap caskroom/drivers
 
@@ -27,8 +20,6 @@ tap caskroom/fonts
 tap caskroom/versions
 
 tap dotiful/tap
-cask sshfs-gui
-cask themer
 
 tap homebrew/bundle
 

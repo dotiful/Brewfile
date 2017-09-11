@@ -7,6 +7,7 @@ cask adguard
 cask airdroid
 cask airfoil
 cask android-file-transfer
+cask android-sdk
 cask appcleaner
 cask atom
 cask bartender
@@ -18,6 +19,7 @@ cask browser-chooserx
 cask brushviewql
 cask colorpicker-skalacolor
 cask console
+cask coteditor
 cask daisydisk
 cask default-folder-x
 cask devdocs
@@ -48,6 +50,7 @@ cask launchpad-manager-yosemite
 cask lepton
 cask lunchy
 cask magic-launch
+cask mandrake
 cask megasync
 cask mysimbl
 cask nteract
@@ -80,6 +83,7 @@ cask raindropio
 cask rcdefaultapp
 cask real-vnc
 cask receiptquicklook
+cask remote-desktop-manager
 cask screenhero
 cask script-debugger
 cask shortcat
@@ -87,6 +91,7 @@ cask sip
 cask smcfancontrol
 cask soundcloud-downloader
 cask spotify
+cask sqlitebrowser
 cask suspicious-package
 cask svgcleaner
 cask synergy
@@ -101,6 +106,8 @@ cask typora
 cask ui-browser
 cask vagrant-manager
 cask vagrant
+cask virtualbox-extension-pack
+cask virtualbox
 cask vox-preferences-pane
 cask vox
 cask webpquicklook
@@ -135,3 +142,5 @@ tap dotiful/tap
 brew android-completion
 cask htmltomd
 cask shortcutdetective
+cask sshfs-gui
+cask themer
