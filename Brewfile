@@ -9,6 +9,7 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask gns3
 cask opendns-updater
 
 tap caskroom/drivers
@@ -20,6 +21,7 @@ tap caskroom/fonts
 tap caskroom/versions
 
 tap dotiful/tap
+cask themer-gui
 
 tap homebrew/bundle
 
