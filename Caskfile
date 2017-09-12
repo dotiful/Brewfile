@@ -50,7 +50,6 @@ cask launchpad-manager-yosemite
 cask lepton
 cask lunchy
 cask magic-launch
-cask mandrake
 cask megasync
 cask mysimbl
 cask nteract
@@ -91,13 +90,11 @@ cask sip
 cask smcfancontrol
 cask soundcloud-downloader
 cask spotify
-cask sqlitebrowser
 cask suspicious-package
 cask svgcleaner
 cask synergy
 cask teamviewer
 cask telegram
-cask timing
 cask tiptyper
 cask touche
 cask trailer
