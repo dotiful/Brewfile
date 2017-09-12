@@ -137,4 +137,3 @@ brew android-completion
 cask htmltomd
 cask shortcutdetective
 cask sshfs-gui
-cask themer
