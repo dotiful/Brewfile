@@ -19,7 +19,6 @@ tap caskroom/eid
 tap caskroom/fonts
 
 tap caskroom/versions
-cask adium-beta
 cask atom-beta
 
 tap dotiful/tap
