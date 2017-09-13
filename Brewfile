@@ -10,7 +10,9 @@ tap buo/cask-upgrade
 
 tap caskroom/cask
 cask gns3
+cask nomachine
 cask opendns-updater
+cask synergy
 
 tap caskroom/drivers
 
