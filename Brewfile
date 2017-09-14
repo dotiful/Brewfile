@@ -9,9 +9,9 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask android-file-transfer
 cask gns3
 cask nomachine
-cask opendns-updater
 cask synergy
 
 tap caskroom/drivers

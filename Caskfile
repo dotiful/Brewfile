@@ -6,7 +6,6 @@ cask 1password
 cask adguard
 cask airdroid
 cask airfoil
-cask android-file-transfer
 cask android-sdk
 cask appcleaner
 cask atom
@@ -87,7 +86,6 @@ cask script-debugger
 cask shortcat
 cask sip
 cask smcfancontrol
-cask soundcloud-downloader
 cask spotify
 cask suspicious-package
 cask svgcleaner
