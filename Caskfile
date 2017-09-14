@@ -75,7 +75,6 @@ cask quicklook-json
 cask quicklook-pat
 cask quicklookapk
 cask quicklookase
-cask radio-silence
 cask raindropio
 cask rcdefaultapp
 cask real-vnc
@@ -89,7 +88,6 @@ cask smcfancontrol
 cask spotify
 cask suspicious-package
 cask svgcleaner
-cask teamviewer
 cask telegram
 cask tiptyper
 cask touche

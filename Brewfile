@@ -11,7 +11,9 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask android-file-transfer
 cask gns3
+cask namebench
 cask nomachine
+cask radio-silence
 cask sublime-text
 cask synergy
 
