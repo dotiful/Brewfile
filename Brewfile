@@ -50,7 +50,6 @@ brew m-cli
 brew python3
 brew icoutils
 brew mercurial
-brew terminal-notifier
 brew mitmproxy
 brew unrar
 brew aria2
