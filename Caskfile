@@ -4,7 +4,6 @@
 tap caskroom/cask
 cask 1password
 cask adguard
-cask airdroid
 cask airfoil
 cask android-sdk
 cask appcleaner
@@ -37,7 +36,6 @@ cask hammerspoon
 cask hetimazipql
 cask iconjar
 cask iina
-cask insomnia
 cask jasper
 cask karabiner-elements
 cask keka
