@@ -15,6 +15,7 @@ cask nomachine
 cask radio-silence
 cask sublime-text
 cask synergy
+cask webcatalog
 
 tap caskroom/drivers
 
@@ -26,6 +27,7 @@ tap caskroom/versions
 cask atom-beta
 
 tap dotiful/tap
+cask mockoon
 cask themer-gui
 
 tap homebrew/bundle
