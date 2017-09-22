@@ -5,7 +5,6 @@ tap caskroom/cask
 cask 1password
 cask adguard
 cask airfoil
-cask android-sdk
 cask appcleaner
 cask atom
 cask bartender
