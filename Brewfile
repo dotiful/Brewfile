@@ -9,7 +9,10 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask airtool
 cask autodmg
+cask createuserpkg
+cask cyberghost
 cask gns3
 cask nomachine
 cask radio-silence
