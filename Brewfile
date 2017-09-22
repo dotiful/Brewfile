@@ -40,6 +40,7 @@ brew mobile-shell
 brew osxutils
 brew ssh-copy-id
 brew htop
+brew ninja
 brew multimarkdown
 brew vagrant-completion
 brew python
