@@ -15,7 +15,6 @@ cask browser-chooserx
 cask brushviewql
 cask colorpicker-skalacolor
 cask console
-cask coteditor
 cask daisydisk
 cask default-folder-x
 cask devdocs
@@ -96,8 +95,6 @@ cask vagrant-manager
 cask vagrant
 cask virtualbox-extension-pack
 cask virtualbox
-cask vox-preferences-pane
-cask vox
 cask webpquicklook
 cask winfo
 cask witch
