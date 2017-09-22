@@ -30,7 +30,6 @@ tap caskroom/versions
 cask atom-beta
 
 tap dotiful/tap
-cask mockoon
 cask themer-gui
 
 tap homebrew/bundle
@@ -57,6 +56,7 @@ brew mercurial
 brew mitmproxy
 brew unrar
 brew aria2
+brew fizsh
 brew findutils
 brew stormssh
 brew packer
@@ -91,7 +91,6 @@ brew pyenv
 brew sshfs
 brew neovim
 brew git
-brew zsh
 brew perl
 brew emacs
 brew nativefier
