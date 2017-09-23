@@ -16,6 +16,7 @@ cask createuserpkg
 cask cyberghost
 cask gns3
 cask nomachine
+cask packages
 cask radio-silence
 cask sublime-text
 cask synergy
@@ -99,6 +100,7 @@ brew nativefier
 brew miller
 brew shellcheck
 brew fzf
+brew lzop
 brew caddy
 brew shfmt
 brew ruby
@@ -126,7 +128,7 @@ brew coreutils
 brew source-highlight
 brew rbenv-default-gems
 brew mas
-brew lzop
+brew elvish
 brew ccat
 brew speedtest-cli
 brew syncthing-inotify

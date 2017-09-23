@@ -25,5 +25,11 @@ pip pytify
 # SoundCloud downloader
 pip soundscrape
 
+# pipe output from command-line programs to the web in real-time https://seashells.io/
+pip seashells
+
+# pip update helpers
+pip pipdate
+
 # google-play cli
 # pip install gplay
