@@ -14,7 +14,6 @@ cask android-platform-tools
 cask autodmg
 cask createuserpkg
 cask gns3
-cask nomachine
 cask packages
 cask radio-silence
 cask sublime-text
