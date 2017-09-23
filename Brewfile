@@ -13,7 +13,6 @@ cask airtool
 cask android-platform-tools
 cask autodmg
 cask createuserpkg
-cask cyberghost
 cask gns3
 cask nomachine
 cask packages
