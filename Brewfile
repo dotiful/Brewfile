@@ -9,11 +9,13 @@ brew bindle
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask airtool
 cask android-platform-tools
 cask autodmg
 cask createuserpkg
+cask cyberghost
+cask default-folder-x
 cask gns3
+cask nomachine
 cask packages
 cask radio-silence
 cask sublime-text
