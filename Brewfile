@@ -58,6 +58,7 @@ brew icoutils
 brew mercurial
 brew mitmproxy
 brew unrar
+brew help2man
 brew aria2
 brew fizsh
 brew findutils
