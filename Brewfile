@@ -29,7 +29,6 @@ tap caskroom/eid
 tap caskroom/fonts
 
 tap caskroom/versions
-cask atom-beta
 
 tap dotiful/tap
 cask themer-gui
