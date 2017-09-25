@@ -79,6 +79,7 @@ brew rbenv-gemset
 brew syncthing
 brew c-ares
 brew dockutil
+brew qrencode
 brew dcfldd
 brew stow
 brew ansible-lint
@@ -154,6 +155,8 @@ brew parse-plist
 
 tap sebglazebrook/aliases
 brew aliases
+
+tap timothybasanov/google-authenticator
 
 tap timsutton/formulae
 brew brew-pkg
